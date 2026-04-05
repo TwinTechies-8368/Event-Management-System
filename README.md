@@ -115,8 +115,7 @@ gcc event_dag.c -o event
 
 ## 🧪 Sample Output
 **🧪 Sample Output 1 – Basic Creation**
-
-<img width="427" height="275" alt="image" src="https://github.com/user-attachments/assets/17bc23a8-ae53-478e-b75f-1ca1100e06f0" />
+<img width="372" height="220" alt="image" src="https://github.com/user-attachments/assets/0a7bd793-af11-4f8e-87b3-21006c6eecb6" />
 
 <img width="302" height="87" alt="image" src="https://github.com/user-attachments/assets/07c04e26-712f-49f0-b671-78b4bdbadd53" />
 
